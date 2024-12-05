@@ -29,7 +29,7 @@ However, the _background_ has to be one of these three options:
 Run the app.
 1) Press "_Open file..._" to find and select your ground tile.
 2) Use the three sliders to adjust the brightness of lights, the darkness of shadows and, optionally, to add gridlines.
-3) Check the preview window to give you an idea of the final look.
+3) Check the preview window to have an idea of the final look.
 
 ![02](/_readme/02.png)
 
